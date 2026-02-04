@@ -1,0 +1,14 @@
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\bin\Debug\net9.0\CriarClasses.exe
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\bin\Debug\net9.0\CriarClasses.deps.json
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\bin\Debug\net9.0\CriarClasses.runtimeconfig.json
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\bin\Debug\net9.0\CriarClasses.dll
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\bin\Debug\net9.0\CriarClasses.pdb
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\CriarClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\CriarClasses.AssemblyInfoInputs.cache
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\CriarClasses.AssemblyInfo.cs
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\CriarClasses.csproj.CoreCompileInputs.cache
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\CriarClasses.dll
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\refint\CriarClasses.dll
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\CriarClasses.pdb
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\CriarClasses.genruntimeconfig.cache
+E:\PROJETOSELIAS\CriarClassesSLN\CriarClasses\obj\Debug\net9.0\ref\CriarClasses.dll
