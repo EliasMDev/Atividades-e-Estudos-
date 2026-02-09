@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\github\\atividades-e-estudos-\\projetobancocentralsln\\projetobancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\github\\atividades-e-estudos-\\projetobancocentralsln\\projetobancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\github\\atividades-e-estudos-\\projetobancocentralsln\\projetobancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\GitHub\\Atividades-e-Estudos-\\ProjetoBancoCentralSLN\\ProjetoBancoCentral\\Transacao.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\Transacao.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\GitHub\\Atividades-e-Estudos-\\ProjetoBancoCentralSLN\\ProjetoBancoCentral\\Transacao.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:03:00.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\GitHub\\Atividades-e-Estudos-\\ProjetoBancoCentralSLN\\ProjetoBancoCentral\\Banco.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\Banco.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\GitHub\\Atividades-e-Estudos-\\ProjetoBancoCentralSLN\\ProjetoBancoCentral\\Banco.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:02:26.694Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\PROJETOSELIAS\\GitHub\\Atividades-e-Estudos-\\ProjetoBancoCentralSLN\\ProjetoBancoCentral\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\Program.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\GitHub\\Atividades-e-Estudos-\\ProjetoBancoCentralSLN\\ProjetoBancoCentral\\Program.cs",
-              "RelativeToolTip": "ProjetoBancoCentral\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\PROJETOSELIAS\\GitHub\\Atividades-e-Estudos-\\ProjetoBancoCentralSLN\\ProjetoBancoCentral\\Program.cs*",
+              "RelativeToolTip": "ProjetoBancoCentral\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T11:59:32.526Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
