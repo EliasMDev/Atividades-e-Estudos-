@@ -10,27 +10,34 @@ Original file is located at
 from datetime import datetime
 
 class Banco:
-    def __init__(self, nome=None, codigo_bacen=None):
-        self.nome = nome
-        self.codigo_bacen = codigo_bacen
-
-class ContaBancaria:
-    def __init__(self, agencia=None, numero_conta=None):
-        self.agencia = agencia
-        self.numero_conta = numero_conta
-        self.__saldo = 0.0  # Atributo privado
+    def __init__(self):
+        self._nome = ""
+        self._codigo_bacen = ""
 
     @property
-    def saldo(self):
-        return self.__saldo
+    def nome(self):
+        return self._nome.upper() if self._nome else ""
+
+    @nome.setter
+    def nome(self, value):
+        self._nome = value
+
+    @property
+    def codigo_bacen(self):
+        return self._codigo_bacen
+
+    @codigo_bacen.setter
+    def codigo_bacen(self, value):
+        if not value or value.strip() == "":
+            print("Erro: O Código BACEN não pode ser vazio ou nulo!")
+        else:
+            self._codigo_bacen = value
 
 class Transacao:
     def __init__(self):
         self._valor = 0.0
         self.data = None
-        self.tipo = None
-        self.conta_origem = None
-        self.conta_destino = None
+        self.tipo = ""
 
     @property
     def valor(self):
@@ -43,15 +50,17 @@ class Transacao:
         else:
             raise ValueError("O valor deve ser maior que 0")
 
-# --- EXECUÇÃO (Equivalente ao Program.cs) ---
-
 def main():
-    meu_banco = Banco(nome="Banco do Brasil", codigo_bacen="001")
+    # Instância correta: meu_banco
+    meu_banco = Banco()
+    meu_banco.nome = "banco do brasil"
+    meu_banco.codigo_bacen = ""  # Disparará o print de erro
+    meu_banco.codigo_bacen = "001"
+
     minha_transacao = Transacao()
 
     try:
-        # Tentando atribuir um valor negativo para testar a validação
-        minha_transacao.valor = -250.00
+        minha_transacao.valor = 250.00
         minha_transacao.data = datetime.now()
         minha_transacao.tipo = "PIX"
     except ValueError as e:
@@ -59,6 +68,7 @@ def main():
 
     print("\n--- REGISTRO BACEN ---")
     print(f"Banco: {meu_banco.nome}")
+    # Corrigido: de meu__banco para meu_banco
     print(f"Código: {meu_banco.codigo_bacen}")
     print("-----------------------")
     print(f"Tipo: {minha_transacao.tipo}")
