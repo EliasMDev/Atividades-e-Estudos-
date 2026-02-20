@@ -9,9 +9,18 @@ internal class Program
         meuBanco.CodigoBACEN = "001";
 
         Transacao minhaTransacao = new Transacao();
-        minhaTransacao.Valor = 250.00m;
-        minhaTransacao.Data = DateTime.Now;
-        minhaTransacao.Tipo = "PIX";
+
+        try
+        {
+            minhaTransacao.Valor = -250.00m;
+            minhaTransacao.Data = DateTime.Now;
+            minhaTransacao.Tipo = "PIX";
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"Erro: {e.Message}");
+        }
+        
 
         Console.WriteLine("--- REGISTRO BACEN ---");
         Console.WriteLine("Banco: " + meuBanco.Nome);
