@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\transacaopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacaopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransacaoTed.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\TransacaoTed.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\TransacaoTed.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\TransacaoTed.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\TransacaoTed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:57:42.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransacaoPix.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\TransacaoPix.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\TransacaoPix.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\TransacaoPix.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\TransacaoPix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:54:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\ContaBancaria.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\ContaBancaria.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:09:25.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Transacao.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\Transacao.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Transacao.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\Transacao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:03:00.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Banco.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\Banco.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Banco.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\Banco.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:02:26.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\Program.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Program.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:59:32.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\bin\Debug\net9.0\ProjetoBancoCentral.exe
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\bin\Debug\net9.0\ProjetoBancoCentral.deps.json
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\bin\Debug\net9.0\ProjetoBancoCentral.runtimeconfig.json
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\bin\Debug\net9.0\ProjetoBancoCentral.dll
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\bin\Debug\net9.0\ProjetoBancoCentral.pdb
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ProjetoBancoCentral.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ProjetoBancoCentral.AssemblyInfoInputs.cache
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ProjetoBancoCentral.AssemblyInfo.cs
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ProjetoBancoCentral.csproj.CoreCompileInputs.cache
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ProjetoBancoCentral.sourcelink.json
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ProjetoBancoCentral.dll
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\refint\ProjetoBancoCentral.dll
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ProjetoBancoCentral.pdb
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ProjetoBancoCentral.genruntimeconfig.cache
+E:\PROJETOSELIAS\ProjetoRegis\Atividades-e-Estudos-\ProjetoBancoCentral\Fase3\ProjetoBancoCentral\obj\Debug\net9.0\ref\ProjetoBancoCentral.dll
