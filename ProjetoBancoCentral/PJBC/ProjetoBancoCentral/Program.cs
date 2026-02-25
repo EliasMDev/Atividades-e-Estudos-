@@ -10,8 +10,6 @@ class Program
         meuBanco.CodigoBACEN = "";
         meuBanco.CodigoBACEN = "001";
 
-        Transacao minhaTransacao = new Transacao();
-
         try
         {
             minhaTransacao.Valor = 250.00m;

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoBancoCentral
 {
-    public class Transacao
+    public abstract class Transacao
     {
         protected decimal _valor;
 
