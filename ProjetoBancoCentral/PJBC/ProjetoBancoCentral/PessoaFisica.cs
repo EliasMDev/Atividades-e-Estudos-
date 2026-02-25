@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace ProjetoBancoCentral
 {
-    public class TransacaoPix : Transacao
+    public class PessoaFisica : Cliente 
     {
-        public string ChavePix { get; set; }
+        public string CPF { get; set; }
 
-        public override bool Validar()
+        public override void ExibirDocumento()
         {
-            return _valor > 0 && _valor <= 10000;
+            Console.WriteLine($"CPF: {CPF}");
         }
     }
 }

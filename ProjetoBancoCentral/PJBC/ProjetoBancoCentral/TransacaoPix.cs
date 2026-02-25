@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace ProjetoBancoCentral
 {
-    public class TransacaoTed : Transacao
+    public class TransacaoPix : Transacao
     {
+        public string ChavePix { get; set; }
+
         public override bool Validar()
         {
-            // Regra de exemplo: TED deve ser maior que R$ 5.000 para fiscalização
-            return _valor > 5000;
+            return base.Validar() && _valor <= 10000;
         }
     }
 }

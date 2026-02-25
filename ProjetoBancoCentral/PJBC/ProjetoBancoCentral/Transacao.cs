@@ -17,12 +17,12 @@ namespace ProjetoBancoCentral
         }
 
         public DateTime Data { get; set; } = DateTime.Now;
-        public string ContaOrigem { get; set; }
-        public string ContaDestino { get; set; }
+        public ContaBancaria ContaOrigem { get; set; }
+        public ContaBancaria ContaDestino { get; set; }
 
         public virtual bool Validar()
         {
-            return _valor > 0;
+            return _valor > 0 && ContaOrigem != null && ContaDestino != null ;
         }
     }
 }
