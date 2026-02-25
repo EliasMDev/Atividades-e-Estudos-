@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\ProjetoBancoCentral.csproj",
+      "projectUniqueName": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ProjetoBancoCentral.csproj",
       "projectName": "ProjetoBancoCentral",
-      "projectPath": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\ProjetoBancoCentral.csproj",
+      "projectPath": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ProjetoBancoCentral.csproj",
       "packagesPath": "C:\\Users\\manha.cetafest\\.nuget\\packages\\",
-      "outputPath": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\obj\\",
+      "outputPath": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
