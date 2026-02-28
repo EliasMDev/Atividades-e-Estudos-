@@ -1,45 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\",
+  "WorkspaceRootPath": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\pesoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\pesoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\conversortrilhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\conversortrilhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\transacaopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacaopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\pesoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\pesoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\fase3\\projetobancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\transacaopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacaopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\conversorbilhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\conversorbilhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\iconversorgrandeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\iconversorgrandeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|e:\\projetoselias\\projetoregis\\atividades-e-estudos-\\projetobancocentral\\pjbc\\projetobancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67EC913A-910A-435B-83E7-BD0F28002F83}|ProjetoBancoCentral\\ProjetoBancoCentral.csproj|solutionrelative:projetobancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,28 +62,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ConversorTrilhoes.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ConversorTrilhoes.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\ConversorTrilhoes.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ConversorTrilhoes.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\ConversorTrilhoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:19:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConversorBilhoes.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ConversorBilhoes.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\ConversorBilhoes.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ConversorBilhoes.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\ConversorBilhoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:19:30.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IConversorGrandeza.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\IConversorGrandeza.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\IConversorGrandeza.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\IConversorGrandeza.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\IConversorGrandeza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:16:20.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ContaCorrente.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\ContaCorrente.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ContaCorrente.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\ContaCorrente.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\ContaCorrente.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ContaCorrente.cs",
               "RelativeToolTip": "ProjetoBancoCentral\\ContaCorrente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:46:50.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:46:50.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PesoaJuridica.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\PesoaJuridica.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\PesoaJuridica.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\PesoaJuridica.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\PesoaJuridica.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\PesoaJuridica.cs",
               "RelativeToolTip": "ProjetoBancoCentral\\PesoaJuridica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,41 +130,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "PessoaFisica.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\PessoaFisica.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\PessoaFisica.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\PessoaFisica.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\PessoaFisica.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\PessoaFisica.cs",
               "RelativeToolTip": "ProjetoBancoCentral\\PessoaFisica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:38:21.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:38:21.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Cliente.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\Cliente.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\Cliente.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Cliente.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\Cliente.cs",
               "RelativeToolTip": "ProjetoBancoCentral\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:38:13.651Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "TransacaoTed.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\TransacaoTed.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\TransacaoTed.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\TransacaoTed.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\TransacaoTed.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\TransacaoTed.cs",
               "RelativeToolTip": "ProjetoBancoCentral\\TransacaoTed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TransacaoPix.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\TransacaoPix.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\TransacaoPix.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\TransacaoPix.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\TransacaoPix.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\TransacaoPix.cs",
               "RelativeToolTip": "ProjetoBancoCentral\\TransacaoPix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,26 +181,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\ContaBancaria.cs",
-              "RelativeDocumentMoniker": "ProjetoBancoCentral\\ContaBancaria.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\ContaBancaria.cs",
-              "RelativeToolTip": "ProjetoBancoCentral\\ContaBancaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\Program.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\Program.cs*",
+              "RelativeToolTip": "ProjetoBancoCentral\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T12:09:25.459Z",
+              "WhenOpened": "2026-02-09T11:59:32.526Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Transacao.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Transacao.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\Transacao.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\Transacao.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Transacao.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\Transacao.cs",
               "RelativeToolTip": "ProjetoBancoCentral\\Transacao.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T12:03:00.105Z",
               "EditorCaption": ""
@@ -163,27 +212,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ProjetoBancoCentral\\ContaBancaria.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\ContaBancaria.cs",
+              "RelativeToolTip": "ProjetoBancoCentral\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:09:25.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Banco.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Banco.cs",
+              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\Banco.cs",
               "RelativeDocumentMoniker": "ProjetoBancoCentral\\Banco.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Banco.cs",
+              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\PJBC\\ProjetoBancoCentral\\Banco.cs",
               "RelativeToolTip": "ProjetoBancoCentral\\Banco.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T12:02:26.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoBancoCentral\\Program.cs",
-              "ToolTip": "E:\\PROJETOSELIAS\\ProjetoRegis\\Atividades-e-Estudos-\\ProjetoBancoCentral\\Fase3\\ProjetoBancoCentral\\Program.cs",
-              "RelativeToolTip": "ProjetoBancoCentral\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T11:59:32.526Z",
-              "EditorCaption": ""
             }
           ]
         }

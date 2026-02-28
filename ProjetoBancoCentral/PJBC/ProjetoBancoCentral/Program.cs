@@ -10,23 +10,12 @@ class Program
         meuBanco.CodigoBACEN = "";
         meuBanco.CodigoBACEN = "001";
 
-        try
-        {
-            minhaTransacao.Valor = 250.00m;
-            minhaTransacao.Data = DateTime.Now;
 
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine($"Erro: {e.Message}");
-        }
 
         Console.WriteLine("--- REGISTRO BACEN ---");
         Console.WriteLine("Banco: " + meuBanco.Nome);
         Console.WriteLine("Código: " + meuBanco.CodigoBACEN);
         Console.WriteLine("-----------------------");
-        Console.WriteLine("Valor: R$ " + minhaTransacao.Valor);
-        Console.WriteLine("Data: " + minhaTransacao.Data);
         TransacaoPix meuPix = new TransacaoPix();
         meuPix.Valor = 15000;
         meuPix.ChavePix = "contato@gemini.com";
@@ -36,5 +25,22 @@ class Program
 
         Console.WriteLine($"PIX de R$ {meuPix.Valor} é válido? {meuPix.Validar()}");
         Console.WriteLine($"TED de R$ {meuTed.Valor} é válido? {meuTed.Validar()}");
+
+        decimal valor1 = 5000000000m;
+        decimal valor2 = 2000000000000m;
+
+        // Para Bilhões
+        IConversorGrandeza conversorBi = new ConversorBilhoes();
+        ExibirRelatorio(valor1, conversorBi);
+
+        // Para Trilhões
+        IConversorGrandeza conversorTri = new ConversorTrilhoes();
+        ExibirRelatorio(valor2, conversorTri);
     }
+    public static void ExibirRelatorio(decimal valorBruto, IConversorGrandeza conversor)
+    {
+        decimal valorConvertido = conversor.Converter(valorBruto);
+        Console.WriteLine($"Valor convertido: {valorConvertido:N2} {conversor.ObterSimbolo()}");
+    }
+
 }
